@@ -1,0 +1,3848 @@
+{
+  "Name": "database",
+  "DateCreated": "13 червня 2019 09:21 ",
+  "Files": [
+    {
+      "Name": "database.rar",
+      "Size": 565432,
+      "Path": "D:\\database\\database.rar"
+    },
+    {
+      "Name": "екзамен.html",
+      "Size": 319162,
+      "Path": "D:\\database\\екзамен.html"
+    },
+    {
+      "Name": "екзамен1.html",
+      "Size": 318986,
+      "Path": "D:\\database\\екзамен1.html"
+    },
+    {
+      "Name": "екзамен10.html",
+      "Size": 317713,
+      "Path": "D:\\database\\екзамен10.html"
+    },
+    {
+      "Name": "екзамен11.html",
+      "Size": 87786,
+      "Path": "D:\\database\\екзамен11.html"
+    },
+    {
+      "Name": "екзамен12.html",
+      "Size": 87798,
+      "Path": "D:\\database\\екзамен12.html"
+    },
+    {
+      "Name": "екзамен13.html",
+      "Size": 87798,
+      "Path": "D:\\database\\екзамен13.html"
+    },
+    {
+      "Name": "екзамен14.html",
+      "Size": 318616,
+      "Path": "D:\\database\\екзамен14.html"
+    },
+    {
+      "Name": "екзамен15.html",
+      "Size": 318582,
+      "Path": "D:\\database\\екзамен15.html"
+    },
+    {
+      "Name": "екзамен16.html",
+      "Size": 318582,
+      "Path": "D:\\database\\екзамен16.html"
+    },
+    {
+      "Name": "екзамен17.html",
+      "Size": 319116,
+      "Path": "D:\\database\\екзамен17.html"
+    },
+    {
+      "Name": "екзамен18.html",
+      "Size": 317863,
+      "Path": "D:\\database\\екзамен18.html"
+    },
+    {
+      "Name": "екзамен19.html",
+      "Size": 318333,
+      "Path": "D:\\database\\екзамен19.html"
+    },
+    {
+      "Name": "екзамен2.html",
+      "Size": 317769,
+      "Path": "D:\\database\\екзамен2.html"
+    },
+    {
+      "Name": "екзамен3.html",
+      "Size": 317693,
+      "Path": "D:\\database\\екзамен3.html"
+    },
+    {
+      "Name": "екзамен4.html",
+      "Size": 318622,
+      "Path": "D:\\database\\екзамен4.html"
+    },
+    {
+      "Name": "екзамен5.html",
+      "Size": 318470,
+      "Path": "D:\\database\\екзамен5.html"
+    },
+    {
+      "Name": "екзамен6.html",
+      "Size": 317810,
+      "Path": "D:\\database\\екзамен6.html"
+    },
+    {
+      "Name": "екзамен7.html",
+      "Size": 317581,
+      "Path": "D:\\database\\екзамен7.html"
+    },
+    {
+      "Name": "екзамен8.html",
+      "Size": 318036,
+      "Path": "D:\\database\\екзамен8.html"
+    },
+    {
+      "Name": "екзамен9.html",
+      "Size": 318512,
+      "Path": "D:\\database\\екзамен9.html"
+    }
+  ],
+  "Children": [
+    {
+      "Name": "екзамен10_files",
+      "DateCreated": "13 червня 2019 09:36 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен10_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен10_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен10_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен10_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен10_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен10_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен10_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен10_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен10_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен10_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен10_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен10_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен10_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен10_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен10_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен10_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен10_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен10_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен10_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен10_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен10_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен10_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен10_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен10_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен10_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен10_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен10_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен10_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен10_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен10_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен10_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен10_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен10_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен10_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен10_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен10_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен11_files",
+      "DateCreated": "13 червня 2019 09:37 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен11_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен11_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен11_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен11_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен11_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен11_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен11_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен11_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен11_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен11_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен11_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен11_files\\grade_correct.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен11_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен11_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен11_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен11_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен11_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен11_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен11_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен11_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен11_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен11_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен11_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен11_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен11_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен11_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен11_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен11_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен11_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен11_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен11_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен11_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен11_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен11_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен11_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен12_files",
+      "DateCreated": "13 червня 2019 09:38 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен12_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен12_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен12_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен12_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен12_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен12_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен12_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен12_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен12_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен12_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен12_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен12_files\\grade_correct.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен12_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен12_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен12_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен12_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен12_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен12_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен12_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен12_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен12_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен12_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен12_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен12_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен12_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен12_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен12_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен12_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен12_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен12_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен12_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен12_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен12_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен12_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен12_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен13_files",
+      "DateCreated": "13 червня 2019 09:40 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен13_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен13_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен13_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен13_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен13_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен13_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен13_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен13_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен13_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен13_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен13_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен13_files\\grade_correct.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен13_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен13_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен13_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен13_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен13_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен13_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен13_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен13_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен13_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен13_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен13_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен13_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен13_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен13_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен13_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен13_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен13_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен13_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен13_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен13_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен13_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен13_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен13_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен14_files",
+      "DateCreated": "13 червня 2019 09:41 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен14_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен14_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен14_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен14_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен14_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен14_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен14_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен14_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен14_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен14_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен14_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен14_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен14_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен14_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен14_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен14_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен14_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен14_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен14_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен14_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен14_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен14_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен14_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен14_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен14_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен14_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен14_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен14_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен14_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен14_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен14_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен14_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен14_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен14_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен14_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен14_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен15_files",
+      "DateCreated": "13 червня 2019 09:42 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен15_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен15_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен15_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен15_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен15_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен15_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен15_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен15_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен15_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен15_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен15_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен15_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен15_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен15_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен15_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен15_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен15_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен15_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен15_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен15_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен15_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен15_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен15_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен15_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен15_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен15_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен15_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен15_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен15_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен15_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен15_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен15_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен15_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен15_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен15_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен15_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен16_files",
+      "DateCreated": "13 червня 2019 09:43 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен16_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен16_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен16_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен16_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен16_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен16_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен16_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен16_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен16_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен16_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен16_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен16_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен16_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен16_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен16_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен16_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен16_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен16_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен16_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен16_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен16_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен16_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен16_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен16_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен16_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен16_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен16_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен16_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен16_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен16_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен16_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен16_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен16_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен16_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен16_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен16_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен17_files",
+      "DateCreated": "13 червня 2019 09:44 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен17_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен17_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен17_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен17_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен17_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен17_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен17_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен17_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен17_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен17_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен17_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен17_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен17_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен17_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен17_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен17_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен17_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен17_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен17_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен17_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен17_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен17_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен17_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен17_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен17_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен17_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен17_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен17_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен17_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен17_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен17_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен17_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен17_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен17_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен17_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен17_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен18_files",
+      "DateCreated": "13 червня 2019 09:45 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен18_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен18_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен18_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен18_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен18_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен18_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен18_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен18_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен18_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен18_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен18_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен18_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен18_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен18_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен18_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен18_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен18_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен18_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен18_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен18_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен18_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен18_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен18_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен18_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен18_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен18_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен18_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен18_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен18_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен18_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен18_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен18_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен18_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен18_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен18_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен18_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен19_files",
+      "DateCreated": "13 червня 2019 09:46 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен19_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен19_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен19_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен19_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен19_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен19_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен19_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен19_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен19_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен19_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен19_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен19_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен19_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен19_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен19_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен19_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен19_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен19_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен19_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен19_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен19_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен19_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен19_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен19_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен19_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен19_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен19_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен19_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен19_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен19_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен19_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен19_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен19_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен19_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен19_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен19_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен1_files",
+      "DateCreated": "13 червня 2019 09:25 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен1_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен1_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен1_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен1_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен1_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен1_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен1_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен1_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен1_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен1_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен1_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен1_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен1_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен1_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен1_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен1_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен1_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен1_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен1_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен1_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен1_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен1_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен1_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен1_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен1_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен1_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен1_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен1_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен1_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен1_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен1_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен1_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен1_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен1_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен1_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен1_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен2_files",
+      "DateCreated": "13 червня 2019 09:26 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен2_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен2_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен2_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен2_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен2_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен2_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен2_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен2_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен2_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен2_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен2_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен2_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен2_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен2_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен2_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен2_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен2_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен2_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен2_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен2_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен2_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен2_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен2_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен2_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен2_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен2_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен2_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен2_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен2_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен2_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен2_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен2_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен2_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен2_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен2_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен2_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен3_files",
+      "DateCreated": "13 червня 2019 09:27 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен3_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен3_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен3_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен3_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен3_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен3_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен3_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен3_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен3_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен3_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен3_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен3_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен3_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен3_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен3_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен3_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен3_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен3_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен3_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен3_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен3_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен3_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен3_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен3_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен3_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен3_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен3_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен3_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен3_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен3_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен3_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен3_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен3_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен3_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен3_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен3_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен4_files",
+      "DateCreated": "13 червня 2019 09:29 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен4_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен4_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен4_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен4_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен4_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен4_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен4_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен4_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен4_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен4_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен4_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен4_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен4_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен4_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен4_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен4_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен4_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен4_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен4_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен4_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен4_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен4_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен4_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен4_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен4_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен4_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен4_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен4_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен4_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен4_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен4_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен4_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен4_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен4_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен4_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен4_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен5_files",
+      "DateCreated": "13 червня 2019 09:30 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен5_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 16041,
+          "Path": "D:\\database\\екзамен5_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен5_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 1375,
+          "Path": "D:\\database\\екзамен5_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2980,
+          "Path": "D:\\database\\екзамен5_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен5_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен5_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен5_files\\combo(7)"
+        },
+        {
+          "Name": "combo(8)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен5_files\\combo(8)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен5_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен5_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен5_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен5_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен5_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен5_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен5_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен5_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен5_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен5_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен5_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен5_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен5_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен5_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен5_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен5_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен5_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен5_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен5_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен5_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен5_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен5_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен5_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен5_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен5_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен5_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен5_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен5_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен6_files",
+      "DateCreated": "13 червня 2019 09:32 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен6_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен6_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен6_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен6_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен6_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен6_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен6_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен6_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен6_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен6_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен6_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен6_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен6_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен6_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен6_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен6_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен6_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен6_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен6_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен6_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен6_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен6_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен6_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен6_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен6_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен6_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен6_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен6_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен6_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен6_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен6_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен6_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен6_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен6_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен6_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен6_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен7_files",
+      "DateCreated": "13 червня 2019 09:33 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен7_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен7_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен7_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен7_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен7_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен7_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен7_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен7_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен7_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен7_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен7_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен7_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен7_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен7_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен7_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен7_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен7_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен7_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен7_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен7_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен7_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен7_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен7_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен7_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен7_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен7_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен7_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен7_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен7_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен7_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен7_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен7_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен7_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен7_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен7_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен7_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен8_files",
+      "DateCreated": "13 червня 2019 09:34 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен8_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен8_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен8_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен8_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен8_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен8_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен8_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен8_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен8_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен8_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен8_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен8_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен8_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен8_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен8_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен8_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен8_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен8_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен8_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен8_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен8_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен8_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен8_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен8_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен8_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен8_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен8_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен8_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен8_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен8_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен8_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен8_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен8_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен8_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен8_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен8_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен9_files",
+      "DateCreated": "13 червня 2019 09:35 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен9_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 2146,
+          "Path": "D:\\database\\екзамен9_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 18250,
+          "Path": "D:\\database\\екзамен9_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен9_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен9_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен9_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен9_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен9_files\\combo(7)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен9_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен9_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен9_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен9_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен9_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен9_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен9_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен9_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен9_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен9_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен9_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен9_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен9_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен9_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен9_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен9_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен9_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен9_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен9_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен9_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен9_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен9_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен9_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен9_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен9_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен9_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен9_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен9_files\\синє.png"
+        }
+      ],
+      "Children": []
+    },
+    {
+      "Name": "екзамен_files",
+      "DateCreated": "13 червня 2019 09:22 ",
+      "Files": [
+        {
+          "Name": "combo",
+          "Size": 3627,
+          "Path": "D:\\database\\екзамен_files\\combo"
+        },
+        {
+          "Name": "combo(1)",
+          "Size": 16041,
+          "Path": "D:\\database\\екзамен_files\\combo(1)"
+        },
+        {
+          "Name": "combo(2)",
+          "Size": 27815,
+          "Path": "D:\\database\\екзамен_files\\combo(2)"
+        },
+        {
+          "Name": "combo(3)",
+          "Size": 1375,
+          "Path": "D:\\database\\екзамен_files\\combo(3)"
+        },
+        {
+          "Name": "combo(4)",
+          "Size": 2980,
+          "Path": "D:\\database\\екзамен_files\\combo(4)"
+        },
+        {
+          "Name": "combo(5)",
+          "Size": 5413,
+          "Path": "D:\\database\\екзамен_files\\combo(5)"
+        },
+        {
+          "Name": "combo(6)",
+          "Size": 2883,
+          "Path": "D:\\database\\екзамен_files\\combo(6)"
+        },
+        {
+          "Name": "combo(7)",
+          "Size": 1432,
+          "Path": "D:\\database\\екзамен_files\\combo(7)"
+        },
+        {
+          "Name": "combo(8)",
+          "Size": 298987,
+          "Path": "D:\\database\\екзамен_files\\combo(8)"
+        },
+        {
+          "Name": "course.svg",
+          "Size": 920,
+          "Path": "D:\\database\\екзамен_files\\course.svg"
+        },
+        {
+          "Name": "f2.png",
+          "Size": 339,
+          "Path": "D:\\database\\екзамен_files\\f2.png"
+        },
+        {
+          "Name": "grades.svg",
+          "Size": 553,
+          "Path": "D:\\database\\екзамен_files\\grades.svg"
+        },
+        {
+          "Name": "grade_correct.svg",
+          "Size": 445,
+          "Path": "D:\\database\\екзамен_files\\grade_correct.svg"
+        },
+        {
+          "Name": "grade_incorrect.svg",
+          "Size": 517,
+          "Path": "D:\\database\\екзамен_files\\grade_incorrect.svg"
+        },
+        {
+          "Name": "iframe_api",
+          "Size": 859,
+          "Path": "D:\\database\\екзамен_files\\iframe_api"
+        },
+        {
+          "Name": "javascript(1).php",
+          "Size": 2325,
+          "Path": "D:\\database\\екзамен_files\\javascript(1).php"
+        },
+        {
+          "Name": "javascript(2).php",
+          "Size": 5491,
+          "Path": "D:\\database\\екзамен_files\\javascript(2).php"
+        },
+        {
+          "Name": "javascript(3).php",
+          "Size": 55,
+          "Path": "D:\\database\\екзамен_files\\javascript(3).php"
+        },
+        {
+          "Name": "javascript(4).php",
+          "Size": 86281,
+          "Path": "D:\\database\\екзамен_files\\javascript(4).php"
+        },
+        {
+          "Name": "javascript(5).php",
+          "Size": 28928,
+          "Path": "D:\\database\\екзамен_files\\javascript(5).php"
+        },
+        {
+          "Name": "javascript(6).php",
+          "Size": 17621,
+          "Path": "D:\\database\\екзамен_files\\javascript(6).php"
+        },
+        {
+          "Name": "javascript(7).php",
+          "Size": 1310,
+          "Path": "D:\\database\\екзамен_files\\javascript(7).php"
+        },
+        {
+          "Name": "javascript.php",
+          "Size": 2019,
+          "Path": "D:\\database\\екзамен_files\\javascript.php"
+        },
+        {
+          "Name": "loading.gif",
+          "Size": 2982,
+          "Path": "D:\\database\\екзамен_files\\loading.gif"
+        },
+        {
+          "Name": "logout.svg",
+          "Size": 569,
+          "Path": "D:\\database\\екзамен_files\\logout.svg"
+        },
+        {
+          "Name": "markasread.svg",
+          "Size": 475,
+          "Path": "D:\\database\\екзамен_files\\markasread.svg"
+        },
+        {
+          "Name": "message.svg",
+          "Size": 402,
+          "Path": "D:\\database\\екзамен_files\\message.svg"
+        },
+        {
+          "Name": "notifications.svg",
+          "Size": 1208,
+          "Path": "D:\\database\\екзамен_files\\notifications.svg"
+        },
+        {
+          "Name": "preferences.svg",
+          "Size": 812,
+          "Path": "D:\\database\\екзамен_files\\preferences.svg"
+        },
+        {
+          "Name": "requirejs.php",
+          "Size": 732257,
+          "Path": "D:\\database\\екзамен_files\\requirejs.php"
+        },
+        {
+          "Name": "search.svg",
+          "Size": 635,
+          "Path": "D:\\database\\екзамен_files\\search.svg"
+        },
+        {
+          "Name": "settings.svg",
+          "Size": 842,
+          "Path": "D:\\database\\екзамен_files\\settings.svg"
+        },
+        {
+          "Name": "styles.php",
+          "Size": 613770,
+          "Path": "D:\\database\\екзамен_files\\styles.php"
+        },
+        {
+          "Name": "unflagged.png",
+          "Size": 246,
+          "Path": "D:\\database\\екзамен_files\\unflagged.png"
+        },
+        {
+          "Name": "user.svg",
+          "Size": 464,
+          "Path": "D:\\database\\екзамен_files\\user.svg"
+        },
+        {
+          "Name": "www-widgetapi.js.завантаження",
+          "Size": 21429,
+          "Path": "D:\\database\\екзамен_files\\www-widgetapi.js.завантаження"
+        },
+        {
+          "Name": "синє.png",
+          "Size": 60865,
+          "Path": "D:\\database\\екзамен_files\\синє.png"
+        }
+      ],
+      "Children": []
+    }
+  ]
+}

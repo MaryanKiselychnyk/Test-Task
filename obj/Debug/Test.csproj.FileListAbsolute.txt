@@ -1,0 +1,10 @@
+C:\Users\Мар'ян\source\repos\TestTask\Test\bin\Debug\Test.exe.config
+C:\Users\Мар'ян\source\repos\TestTask\Test\bin\Debug\Test.exe
+C:\Users\Мар'ян\source\repos\TestTask\Test\bin\Debug\Test.pdb
+C:\Users\Мар'ян\source\repos\TestTask\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Мар'ян\source\repos\TestTask\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Мар'ян\source\repos\TestTask\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Мар'ян\source\repos\TestTask\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Мар'ян\source\repos\TestTask\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Мар'ян\source\repos\TestTask\Test\obj\Debug\Test.exe
+C:\Users\Мар'ян\source\repos\TestTask\Test\obj\Debug\Test.pdb
