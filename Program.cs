@@ -30,7 +30,7 @@ namespace Test
             {
                 sw.WriteLine(res);
             }
-            Console.WriteLine("Sucsessful!");
+            Console.WriteLine("Successfully recorded to ..bin/Debug/Test.json");
             Console.ReadKey();
         }
     }
